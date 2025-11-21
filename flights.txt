@@ -1,0 +1,31 @@
+New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus, Charlotte
+New York, Los Angeles, 320
+New York, Chicago, 180
+New York, Dallas, 210
+New York, Charlotte, 160
+Los Angeles, Phoenix, 140
+Los Angeles, San Diego, 95
+Los Angeles, San Jose, 120
+Chicago, Houston, 200
+Chicago, Columbus, 130
+Chicago, Charlotte, 150
+Houston, Phoenix, 170
+Houston, San Antonio, 90
+Houston, Jacksonville, 230
+Phoenix, San Diego, 110
+Phoenix, Austin, 190
+Philadelphia, New York, 80
+Philadelphia, Columbus, 140
+San Antonio, Dallas, 75
+San Antonio, Fort Worth, 85
+San Diego, San Jose, 100
+San Diego, Dallas, 260
+Dallas, Austin, 60
+Dallas, Fort Worth, 45
+San Jose, Los Angeles, 120
+San Jose, Phoenix, 180
+Austin, Jacksonville, 220
+Jacksonville, Charlotte, 140
+Fort Worth, Columbus, 160
+Columbus, Charlotte, 130
+Charlotte, Philadelphia, 150
